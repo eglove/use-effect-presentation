@@ -1,0 +1,9 @@
+.TodoContainer {
+  display: grid;
+  margin: 16px auto 0 auto;
+  max-width: 300px;
+}
+
+.TodoContainer li {
+  text-align: left;
+}

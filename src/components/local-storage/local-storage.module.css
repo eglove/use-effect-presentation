@@ -1,0 +1,9 @@
+html :has(.DarkTheme) {
+    background-color: grey;
+    color: white;
+}
+
+html :has(.LightTheme) {
+    background-color: white;
+    color: black;
+}

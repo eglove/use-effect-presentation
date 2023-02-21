@@ -1,0 +1,4 @@
+const filtered = todos.filter(item =>
+  item.name.includes(filterState.filter),
+);
+setTodos(filtered);

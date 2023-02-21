@@ -1,0 +1,12 @@
+.Wrapper {
+    position: relative;
+    pointer-events: none;
+}
+
+.Character {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    font-size: 200px;
+    transition: transform 1000ms;
+}
